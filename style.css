@@ -7,7 +7,7 @@
     height: 300px;
     width: 300px;
     background-color: #b7eeff;
-}
+
 
 .button {
     background-color: #4CAF50;
@@ -38,4 +38,5 @@
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
+}
 }
