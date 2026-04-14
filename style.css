@@ -4,13 +4,13 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 300px;
-    width: 300px;
+    height: 640px;
+    width: 2560;
     background-color: #b7eeff;
 
 
 .button {
-    background-color: #4CAF50;
+    background-color: #227e25;
     border: none;
     color: rgb(128, 17, 17);
     padding: 15px 32px;
@@ -26,12 +26,11 @@
    .button#abrir significa um elemento com a classe button e o id abrir. */
 
 .button#abrir{
-    background-color: #4CAF50;
+    background-color: #00a706;
     border: none;
-    color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
     padding: 15px 32px;
     text-align: center;
-    text-decoration: none;
     display: flex;
     font-size: 16px;
     margin: 4px 2px;
@@ -39,12 +38,11 @@
 }
 
 .button#fechar{
-    background-color: #c70b0b;
+    background-color: #e40000;
     border: none;
-    color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
     padding: 15px 32px;
     text-align: center;
-    text-decoration: none;
     display: flex;
     font-size: 16px;
     margin: 4px 2px;
@@ -52,11 +50,10 @@
 }
 
 .button#identificarPessoa {
-    background-color: #4CAF50;
+    background-color: #0012b8;
     border: none;
-    color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
     padding: 15px 32px;
-    text-align: center;
     text-decoration: none;
     display: flex;
     font-size: 16px;
